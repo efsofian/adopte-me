@@ -13,12 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/seliasbe/adopt-me"
   },
-  "author": "Brian Holt <btholt@gmail.com>",
+  "author": "efsofian",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/btholt/complete-intro-to-react-v4/issues"
+    "url": "https://github.com/efsofian/adopt-me/issues"
   },
-  "homepage": "https://github.com/btholt/complete-intro-to-react-v4#readme",
+  "homepage": "https://github.com/efsofian/adopt-me",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.6",
